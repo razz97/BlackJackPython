@@ -1,1 +1,1 @@
-This repository is about showcasing small applications to demonstrate my skills.
+Small programs i had fun with.
