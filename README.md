@@ -1,1 +1,1 @@
-Small programs i had fun with.
+BlackJack cli python game
